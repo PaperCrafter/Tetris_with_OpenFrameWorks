@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (TestTetris.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  ofApp.cpp
-  TestTetris2.vcxproj -> C:\Users\Paper\Documents\Visual Studio 2015\Projects\TestTetris2\TestTetris2\bin\TestTetris2_debug.exe
-  TestTetris2.vcxproj -> bin\TestTetris2_debug.pdb (Full PDB)
-  
-  	                   9	C:\Users\Paper\Documents\Openframeworks\export\vs\Win32\
